@@ -1,4 +1,5 @@
 # Julia-start
+MEDICAL-IMAGING
 
 opengl- lib for game visualization
 monae
@@ -13,3 +14,8 @@ parallel_indices (library)
 -move up down right left
 
 voxel
+hdf5
+parameter tuning
+neural network
+INVARIANCE (DL)
+ augmentation
