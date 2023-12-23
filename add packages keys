@@ -19,6 +19,8 @@ TMP = Template(
 
 # Generate a project using the template
 TMP("MyDoc")
+using Documenter, DocumenterTools
+DocumenterTools.generate()
 
 st- to see the pkgs in it
 activate "pkg name"
