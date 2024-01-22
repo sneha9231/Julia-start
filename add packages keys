@@ -25,3 +25,7 @@ DocumenterTools.generate()
 st- to see the pkgs in it
 activate "pkg name"
 
+to deactivate and return to back write "activate @v1.9"
+
+to remove undef error - include("package")
+
