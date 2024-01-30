@@ -4,3 +4,4 @@
 25- REALSING TO ENSURE ALL THE PACKAGES SHOULD BE DOWNLOADED
 26- dealing with simpleITK error (RunTime)
 27,28- still stucked
+30- solved by putting correct location ( file ending should be nii.gz)
