@@ -5,3 +5,4 @@
 26- dealing with simpleITK error (RunTime)
 27,28- still stucked
 30- solved by putting correct location ( file ending should be nii.gz)
+31- working with visualizations
